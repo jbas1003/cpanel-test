@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/sandbox.pwnmykpl.com/cpanel-test/
+    - /bin/cp -R images $DEPLOYPATH
