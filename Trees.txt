@@ -1,1 +1,1 @@
-testing
+cpanel.yml test
